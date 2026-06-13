@@ -92,4 +92,4 @@ This build required extensive low-level systems administration to bypass legacy 
 * **Hard Drive Lifecycle Replacement:** The current 1TB Seagate drive has exceeded 16,500 power-on hours and is actively logging `UDMA CRC` and `Uncorrectable Sector` errors. It currently serves strictly as an isolated, sacrificial sandbox and will be replaced with an enterprise-grade NAS HDD (e.g., Seagate IronWolf or WD Red Plus) combined with a new SATA cable.
 * **Docker & Immich Deployment:** Once stable, fault-tolerant storage is acquired, Docker will be deployed to self-host `Immich`—a high-performance, machine-learning-powered Google Photos alternative for automatic mobile backups.
 * **Data Pipelines:** Leverage the robust storage infrastructure for continuous integration, code repository backups, and hosting OpenCV computer vision datasets.
-<img width="2670" height="1200" alt="Screenshot_20260613-145623_Google" src="https://github.com/user-attachments/assets/46e5ebc8-cabc-447d-96f7-e3601ff3b2d7" />
+

@@ -1,4 +1,4 @@
-<img width="998" height="671" alt="Screenshot 2026-06-13 at 3 02 26 PM" src="https://github.com/user-attachments/assets/c8fe35a9-6969-48f8-ab2b-492d4027e048" /># MyOMV_NAS
+# MyOMV_NAS
 A custom personal NAS built by repurposing old hardware running Debian 12 and OpenMediaVault on a USB pen drive, with secure worldwide access via Tailscale.
 
 # 🖥️ Bare-Metal NAS & Private Cloud Infrastructure
